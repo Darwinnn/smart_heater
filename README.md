@@ -1,2 +1,4 @@
 # smart_heater
-A web (wifi) controlled MicroPython home heater
+
+I hacked a home heater with NudeMCU (esp8266 wifi board) and made it IoT compatible.
+

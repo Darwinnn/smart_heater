@@ -1,4 +1,4 @@
 # smart_heater
 
-I hacked a home heater with NudeMCU (esp8266 wifi board) and made it IoT compatible.
+I hacked a home heater with NodeMCU (esp8266 wifi board) and made it IoT compatible.
 
